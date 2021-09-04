@@ -15,3 +15,4 @@ Link to the course. [Feature Engineering](https://www.kaggle.com/learn/feature-e
 | [What Is Feature Engineering?](./01_What_Is_Feature_Engineering) |
 | [Mutual Information](./02_Mutual_Information)                    |
 | [Creating Features](./03_Creating_Features)                      |
+| [Clustering With K-Means](./04_Clustering_With_K-Means)          |
